@@ -15,6 +15,8 @@ export default (state=[], action) => {
         {...state[action.index], ...action.updatedItem},
         ...state.slice(action.index + 1)
       ]
+    case 'LIST_ITEMS':
+      return action.items
     default:
       return state
   }

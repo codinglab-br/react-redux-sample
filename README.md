@@ -2,6 +2,11 @@
 
 This React-redux sample project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) please refer to it's documentation for further information.
 
+## References
+* [Async Await with React Lifecycle methods](https://medium.com/front-end-hacking/async-await-with-react-lifecycle-methods-802e7760d802)
+* [React to async/await](https://medium.com/@kkomaz/react-to-async-await-553c43f243e2)
+* [How To Add Redux To Create React App](http://www.penta-code.com/how-to-add-redux-to-create-react-app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
